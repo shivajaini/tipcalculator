@@ -25,7 +25,7 @@
     self = [super initWithNibName:nibNameOrNil bundle:nibBundleOrNil];
     if (self) {
         // Custom initialization
-        self.title = @"Tip Calculator";
+        self.title = @"Tip Calcultor";
     }
     return self;
 }
